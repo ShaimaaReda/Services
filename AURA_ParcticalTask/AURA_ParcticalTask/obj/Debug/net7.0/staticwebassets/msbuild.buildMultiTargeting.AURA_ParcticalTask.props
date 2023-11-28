@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AURA_ParcticalTask.props" />
+</Project>
